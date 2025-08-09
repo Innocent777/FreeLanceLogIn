@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nkocy\\OneDrive\\Desktop\\FreelanceFlow\\FreelanceFlow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3031BA83-4F80-41B8-B05F-CFA0BAA21B42}|FreelanceFlow\\FreelanceFlow.csproj|c:\\users\\nkocy\\onedrive\\desktop\\freelanceflow\\freelanceflow\\freelanceflow\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3031BA83-4F80-41B8-B05F-CFA0BAA21B42}|FreelanceFlow\\FreelanceFlow.csproj|solutionrelative:freelanceflow\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3031BA83-4F80-41B8-B05F-CFA0BAA21B42}|FreelanceFlow\\FreelanceFlow.csproj|c:\\users\\nkocy\\onedrive\\desktop\\freelanceflow\\freelanceflow\\freelanceflow\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3031BA83-4F80-41B8-B05F-CFA0BAA21B42}|FreelanceFlow\\FreelanceFlow.csproj|solutionrelative:freelanceflow\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3031BA83-4F80-41B8-B05F-CFA0BAA21B42}|FreelanceFlow\\FreelanceFlow.csproj|c:\\users\\nkocy\\onedrive\\desktop\\freelanceflow\\freelanceflow\\freelanceflow\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3031BA83-4F80-41B8-B05F-CFA0BAA21B42}|FreelanceFlow\\FreelanceFlow.csproj|solutionrelative:freelanceflow\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3031BA83-4F80-41B8-B05F-CFA0BAA21B42}|FreelanceFlow\\FreelanceFlow.csproj|c:\\users\\nkocy\\onedrive\\desktop\\freelanceflow\\freelanceflow\\freelanceflow\\signuppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3031BA83-4F80-41B8-B05F-CFA0BAA21B42}|FreelanceFlow\\FreelanceFlow.csproj|solutionrelative:freelanceflow\\signuppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3031BA83-4F80-41B8-B05F-CFA0BAA21B42}|FreelanceFlow\\FreelanceFlow.csproj|c:\\users\\nkocy\\onedrive\\desktop\\freelanceflow\\freelanceflow\\freelanceflow\\signuppage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3031BA83-4F80-41B8-B05F-CFA0BAA21B42}|FreelanceFlow\\FreelanceFlow.csproj|solutionrelative:freelanceflow\\signuppage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3031BA83-4F80-41B8-B05F-CFA0BAA21B42}|FreelanceFlow\\FreelanceFlow.csproj|c:\\users\\nkocy\\onedrive\\desktop\\freelanceflow\\freelanceflow\\freelanceflow\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3031BA83-4F80-41B8-B05F-CFA0BAA21B42}|FreelanceFlow\\FreelanceFlow.csproj|solutionrelative:freelanceflow\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.aspx",
+              "DocumentMoniker": "C:\\Users\\Nkocy\\OneDrive\\Desktop\\FreelanceFlow\\FreelanceFlow\\FreelanceFlow\\HomePage.aspx",
+              "RelativeDocumentMoniker": "FreelanceFlow\\HomePage.aspx",
+              "ToolTip": "C:\\Users\\Nkocy\\OneDrive\\Desktop\\FreelanceFlow\\FreelanceFlow\\FreelanceFlow\\HomePage.aspx",
+              "RelativeToolTip": "FreelanceFlow\\HomePage.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-09T10:18:27.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignUpPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Nkocy\\OneDrive\\Desktop\\FreelanceFlow\\FreelanceFlow\\FreelanceFlow\\SignUpPage.aspx.cs",
+              "RelativeDocumentMoniker": "FreelanceFlow\\SignUpPage.aspx.cs",
+              "ToolTip": "C:\\Users\\Nkocy\\OneDrive\\Desktop\\FreelanceFlow\\FreelanceFlow\\FreelanceFlow\\SignUpPage.aspx.cs",
+              "RelativeToolTip": "FreelanceFlow\\SignUpPage.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T09:14:05.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignUpPage.aspx",
+              "DocumentMoniker": "C:\\Users\\Nkocy\\OneDrive\\Desktop\\FreelanceFlow\\FreelanceFlow\\FreelanceFlow\\SignUpPage.aspx",
+              "RelativeDocumentMoniker": "FreelanceFlow\\SignUpPage.aspx",
+              "ToolTip": "C:\\Users\\Nkocy\\OneDrive\\Desktop\\FreelanceFlow\\FreelanceFlow\\FreelanceFlow\\SignUpPage.aspx",
+              "RelativeToolTip": "FreelanceFlow\\SignUpPage.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-09T09:14:07.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Nkocy\\OneDrive\\Desktop\\FreelanceFlow\\FreelanceFlow\\FreelanceFlow\\LoginPage.aspx.cs",
+              "RelativeDocumentMoniker": "FreelanceFlow\\LoginPage.aspx.cs",
+              "ToolTip": "C:\\Users\\Nkocy\\OneDrive\\Desktop\\FreelanceFlow\\FreelanceFlow\\FreelanceFlow\\LoginPage.aspx.cs",
+              "RelativeToolTip": "FreelanceFlow\\LoginPage.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T08:40:09.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Nkocy\\OneDrive\\Desktop\\FreelanceFlow\\FreelanceFlow\\FreelanceFlow\\Dashboard.aspx.cs",
+              "RelativeDocumentMoniker": "FreelanceFlow\\Dashboard.aspx.cs",
+              "ToolTip": "C:\\Users\\Nkocy\\OneDrive\\Desktop\\FreelanceFlow\\FreelanceFlow\\FreelanceFlow\\Dashboard.aspx.cs",
+              "RelativeToolTip": "FreelanceFlow\\Dashboard.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T08:01:40.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\Nkocy\\OneDrive\\Desktop\\FreelanceFlow\\FreelanceFlow\\FreelanceFlow\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "FreelanceFlow\\Dashboard.aspx",
+              "ToolTip": "C:\\Users\\Nkocy\\OneDrive\\Desktop\\FreelanceFlow\\FreelanceFlow\\FreelanceFlow\\Dashboard.aspx",
+              "RelativeToolTip": "FreelanceFlow\\Dashboard.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-09T07:55:38.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
